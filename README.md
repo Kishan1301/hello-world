@@ -1,3 +1,4 @@
 # hello-world
 My first repository
-I am a 4th-year B.tech student.
+
+Hi! I am starting to learn how to use Github.
